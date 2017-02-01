@@ -149,4 +149,5 @@ public class ActivityA extends Activity {
         Log.d("StatusTracker","AsyncTaskAll");
     }
 //Probando commit1 GitHub
+    //commit3
 }

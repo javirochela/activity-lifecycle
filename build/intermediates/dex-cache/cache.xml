@@ -2,11 +2,31 @@
 <items version="2" >
 
     <item
+        is-multidex="true"
+        jar="/Users/javi_rochela/AndroidStudioProjects/activity-lifecycle/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea5542164d6cfae8178b9f9d2990c564abb84f02">
+        <dex dex="/Users/javi_rochela/AndroidStudioProjects/activity-lifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9a0efcbb5ef483fede1acb22397c0470fbbea5f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/javi_rochela/AndroidStudioProjects/activity-lifecycle/app/libs/android-support-v13.jar"
-        jumboMode="false"
+        jumboMode="true"
+        optimize="true"
         revision="23.0.2"
         sha1="ecda966839090a41b29a9239d44bafc06fdadb87">
-        <dex dex="/Users/javi_rochela/AndroidStudioProjects/activity-lifecycle/app/build/intermediates/pre-dexed/debug/android-support-v13_f3a60bbc055c561774be41c9cc240920af52ac2a.jar" />
+        <dex dex="/Users/javi_rochela/AndroidStudioProjects/activity-lifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v13_f3a60bbc055c561774be41c9cc240920af52ac2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javi_rochela/AndroidStudioProjects/activity-lifecycle/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e31a319c7194205be49f34c1cf848680725e4b4a">
+        <dex dex="/Users/javi_rochela/AndroidStudioProjects/activity-lifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8f19f2b40902a113226915e42c36b9925fbe2761/classes.dex" />
     </item>
 
 </items>
