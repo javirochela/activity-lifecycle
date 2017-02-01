@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/javi_rochela/AndroidStudioProjects/activity-lifecycle/app/build/intermediates/res/merged/debug/layout/activity_a.xml",
+        "source": "/Users/javi_rochela/AndroidStudioProjects/activity-lifecycle/app/src/main/res/layout/activity_a.xml"
+    },
+    {
+        "merged": "/Users/javi_rochela/AndroidStudioProjects/activity-lifecycle/app/build/intermediates/res/merged/debug/layout/activity_dialog.xml",
+        "source": "/Users/javi_rochela/AndroidStudioProjects/activity-lifecycle/app/src/main/res/layout/activity_dialog.xml"
+    },
+    {
+        "merged": "/Users/javi_rochela/AndroidStudioProjects/activity-lifecycle/app/build/intermediates/res/merged/debug/layout/activity_c.xml",
+        "source": "/Users/javi_rochela/AndroidStudioProjects/activity-lifecycle/app/src/main/res/layout/activity_c.xml"
+    },
+    {
+        "merged": "/Users/javi_rochela/AndroidStudioProjects/activity-lifecycle/app/build/intermediates/res/merged/debug/layout/activity_b.xml",
+        "source": "/Users/javi_rochela/AndroidStudioProjects/activity-lifecycle/app/src/main/res/layout/activity_b.xml"
+    }
+]
